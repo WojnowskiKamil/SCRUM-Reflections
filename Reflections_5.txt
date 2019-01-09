@@ -1,0 +1,5 @@
+Backlog jest prost¹ list¹ „zaleg³oœci projektowych”, czyli rzeczy do zrobienia w projekcie. Jest tworzony na pocz¹tku projektu
+– dostaje wtedy maksymaln¹ liczbê „rzeczy do zrobienia”, jakie uda siê wymyœliæ. Nastêpnie backlog ¿yje – ka¿da nowa rzecz, która wpadnie do g³owy, trafia do backloga.
+Rzeczy, które przesta³y mieæ sens, s¹ z niego usuwane i tak dalej. Aby backlog by³ skuteczny ka¿da pozycja na nim musi byæ oszacowana, a sama lista musi byæ posortowana priorytetowo. 
+Elementy najwy¿ej umieszczone s¹ planowane na najbli¿sz¹ przysz³oœæ, elementy ni¿ej – na dalszy okres. Zgodnie z ide¹ „planning horizon”, 
+elementy najwy¿ej powinny byæ niezbyt z³o¿one (czyli powinny byæ mo¿liwie mocno rozbite), jasne, z okreœlonymi kryteriami akceptacyjnymi. 
